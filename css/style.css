@@ -1,0 +1,90 @@
+.card {
+    width: 301px;
+    height: 500px;
+    border-radius: 5px;
+    margin: 0 auto;
+    background: #FD4E02;
+}
+
+.card img {
+    width: 170px;
+    height: 167px;
+    border-radius: 100px;
+    margin-left: 55px;
+    margin-top: 10px;
+}
+
+.card-service h1 {
+    font-family: Inknut Antiqua;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 51.58px;
+    width: 96px;
+    margin: 0 auto;
+}
+
+.service-control {
+    display: flex;
+    align-items: center;
+    gap:50px;
+}
+
+.service-control video {
+    width: 100px;
+    height: 79px;
+    border-radius: 18px;
+}
+
+.service h3 {
+    font-family: Jacques Francois;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 13.19px;
+    margin-left: 30px;
+}
+
+ul li {
+    font-family: Karla;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 11.69px;
+    color: #FD4E02;
+
+}
+
+.card-service {
+    background: #DBE7D2;
+    width: 251px;
+    height: 190px;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+
+.card-licenc {
+    width: 251px;
+    height: 60px;
+    border-radius: 18px;
+    margin: 0 auto;
+    background: #D9D9D9;
+
+}
+
+.card-licenc h5 {
+    font-family: Inknut Antiqua;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 25.79px;
+    width: 97px;
+    margin-left: 30px;
+    margin-bottom: 0;
+}
+
+.card-licenc p {
+    font-family: Inter;
+    font-size: 6px;
+    font-weight: 700;
+    color: #FD4E02;
+    width: 209px;
+    margin: 0 auto;
+}
